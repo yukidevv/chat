@@ -7,7 +7,7 @@ websocket を用いた簡易的なチャットアプリ
 ```
 $ npm install
 $ node index.js
-$ wscat ws://localhost:8080
+$ wscat -c localhost:8080
 ```
 
 # 参考
